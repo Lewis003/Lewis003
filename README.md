@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently working on  **Software Engineering**
 
 - 👯 I’m looking to collaborate on **Android development**
 
-- 🤝 I’m looking for help with **web page**
+- 🤝 I’m looking for help with **APP dev**
 
-- 💬 Ask me about **Java,C,Html**
+- 💬 Ask me about **Java,C,Html, CSS **
 
-- 📫 How to reach me **lewissilamd@gmail.com**
+- 📫 How to reach me **lewisshamal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
